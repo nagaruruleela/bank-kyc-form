@@ -47,7 +47,7 @@ const Form = () => {
                 type="submit"
                 className="w-full p-4 font-bold text-white transition ease-in rounded-md bg-primary hover:bg-secondary"
             >
-                Submit Details for KYC Verification
+                Submit
             </button>
         </form>
     );

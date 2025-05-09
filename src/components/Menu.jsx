@@ -22,6 +22,15 @@ const Menu = () =>
 
                 Verify KYC
             </button>
+                <button
+                type="button"
+                id="user-action-submit"
+                className="flex items-center w-full gap-2 p-4 font-bold text-left transition ease-in rounded-md bg-primary hover:bg-secondary"
+            >
+                <contactus />
+
+             Contactus
+            </button>
         </div>
     </div>;
 
